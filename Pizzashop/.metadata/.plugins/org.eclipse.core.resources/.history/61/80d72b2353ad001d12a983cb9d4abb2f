@@ -1,0 +1,18 @@
+<%@page import="com.db.utils.DbConnection"%>
+<%@ page import ="java.sql.*" %>
+<%
+    String userid = request.getParameter("uname");
+    String pwd = request.getParameter("pass");
+    Connection con = DbConnection.init();
+    Statement st = con.createStatement();
+  ResultSet rs;
+
+    rs = st.executeQuery("select * from members where uname='" + userid + "' and password='" + pwd + "'");
+   if (rs.next()) {
+        session.setAttribute("userid", "userid");
+        response.sendRedirect("success.jsp");
+        %>
+ } else {
+
+             window.location.href = "index.jsp"
+}

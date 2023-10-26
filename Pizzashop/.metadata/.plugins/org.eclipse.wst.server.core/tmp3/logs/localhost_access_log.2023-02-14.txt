@@ -1,0 +1,10 @@
+127.0.0.1 - - [14/Feb/2023:23:23:44 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [14/Feb/2023:23:23:47 +0530] "GET /Pizzashop/ HTTP/1.1" 200 6095
+127.0.0.1 - - [14/Feb/2023:23:23:47 +0530] "GET /Pizzashop/w3.css HTTP/1.1" 200 32790
+127.0.0.1 - - [14/Feb/2023:23:23:47 +0530] "GET /Pizzashop/Images/pizzas/bigmess.png HTTP/1.1" 200 203796
+127.0.0.1 - - [14/Feb/2023:23:23:47 +0530] "GET /Pizzashop/Images/pizzas/ml.png HTTP/1.1" 200 225335
+127.0.0.1 - - [14/Feb/2023:23:23:47 +0530] "GET /Pizzashop/Images/logo-pizza-villa-logo.jpg HTTP/1.1" 200 214660
+127.0.0.1 - - [14/Feb/2023:23:23:47 +0530] "GET /Pizzashop/Images/pizzas/cone.png HTTP/1.1" 200 237321
+127.0.0.1 - - [14/Feb/2023:23:23:49 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [14/Feb/2023:23:23:56 +0530] "POST /Pizzashop/login.jsp HTTP/1.1" 500 3148
+127.0.0.1 - - [14/Feb/2023:23:24:09 +0530] "POST /Pizzashop/login.jsp HTTP/1.1" 500 3148

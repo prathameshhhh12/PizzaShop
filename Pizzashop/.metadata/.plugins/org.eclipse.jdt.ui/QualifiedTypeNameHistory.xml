@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.apache.tomcat.jni.SSLContext"/>
+    <fullyQualifiedTypeName name="javax.net.ssl.TrustManager"/>
+    <fullyQualifiedTypeName name="java.security.SecureRandom"/>
+    <fullyQualifiedTypeName name="javax.net.ssl.SSLContext"/>
+    <fullyQualifiedTypeName name="javax.net.ssl.X509TrustManager"/>
+    <fullyQualifiedTypeName name="java.security.cert.X509Certificate"/>
+</qualifiedTypeNameHistroy>

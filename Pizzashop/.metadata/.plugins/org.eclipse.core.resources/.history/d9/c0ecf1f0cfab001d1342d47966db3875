@@ -1,0 +1,36 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<div class="main">
+<form method="post" name="myform" onsubmit="return validate();">
+<center>
+<h1>Insert Record</h1>
+<center>
+
+<table>
+<tr>
+<td> Name <td>
+<td> <input type="text" name="txt_name"> </td>
+</tr>
+<tr>
+<td> Owner <td>
+<td> <input type="text" name="txt_owner"> </td>
+</tr>
+<tr>
+<td> <input type="submit" name="btn_add" value="Insert"> </td>
+</tr>
+</table>
+<center>
+<h1> <a href="index.jsp"> Back </a> </h1>
+</center>
+</form>
+</div>
+
+</body>
+</html>

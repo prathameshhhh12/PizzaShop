@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Admin\Desktop\project2\food-ordering-app-master (new)\food-ordering-app-master\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+914987223.index
+169355138.index
+3963557205.index
+3375884935.index
+1131093225.index
+4141573120.index
